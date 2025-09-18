@@ -7,8 +7,7 @@ class Program
 
     static void Main(string[] args)
     {
-        testData(); // <-- Add this line to load dummy data
-
+        testData(); //
         bool exit = false;
         while (!exit)
         {
